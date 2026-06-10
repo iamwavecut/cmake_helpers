@@ -135,6 +135,7 @@ INTERFACE
     Gdiplus
     Strmiids
     Netapi32
+    Mpr
     Userenv
     Version
     Dwmapi
